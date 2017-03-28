@@ -1,0 +1,4 @@
+#Tue Mar 07 09:28:01 CET 2017
+base.0=C\:\\Users\\Romain\\Desktop\\player\\PlayerProject\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Romain\\Desktop\\player\\PlayerProject\\android\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
